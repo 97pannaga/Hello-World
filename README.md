@@ -1,2 +1,3 @@
 # Hello-World
-my firdy repository
+my first repository
+hi, i m pannaga learning ML and Data-science AT DATAMITES banglore.
